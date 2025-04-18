@@ -1,0 +1,1 @@
+Main.ahk er laget ved hjelp av programmeringsspråket AutoHotkey. Hensikten er å automatisere repetitive oppgaver. Under master-skriveingen så var det for eksempel å hente ut en referanse fra nett og få det inn i oppgaven på riktig måte med bare ett klikk. Diverse andre lure funksjoner som gjør livet foran skjermen litt lettere.
